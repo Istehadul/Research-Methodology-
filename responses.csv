@@ -1,0 +1,85 @@
+Timestamp,Gender,Age,  Study Level,Faculty,FamiliarWithAI,Usage-Frequency,ToolsUsed,Purpose,LearningEffectiveness,UnderstandingImprovement,PerformanceImprovement,SubmittedAIContent,IntegrityAwareness,OpinionIntegration,OverallImpact
+2026/04/13 6:40:11 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Weekly,ChatGPT;Google Bard / Gemini,Assignment writing;Research help;Coding help,Agree,Neutral,Neutral,No,Yes,No,Neutral
+2026/04/17 1:10:16 AM GMT+6,Male,23-26,Undergraduate,Business Administration,Yes,Weekly,ChatGPT,Coding help,Agree,Agree,Agree,No,No,Yes,Neutral
+2026/04/17 1:18:37 AM GMT+6,Male,23-26,Graduate,Business Administration,Yes,Daily,Google Bard / Gemini,Research help,Agree,Agree,Agree,No,Yes,Yes,Very Positive
+2026/04/17 1:23:52 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Weekly,ChatGPT;Google Bard / Gemini;Others,Assignment writing;Research help;Coding help,Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/17 9:59:58 AM GMT+6,Female,23-26,Undergraduate,Business Administration,Yes,Daily,ChatGPT,All of the above,Agree,Agree,Agree,No,Yes,Maybe,Positive
+2026/04/17 10:11:48 AM GMT+6,Male,23-26,Undergraduate,Engineering,Yes,Occasionally,ChatGPT;Google Bard / Gemini,All of the above,Disagree,Neutral,Agree,No,Yes,No,Positive
+2026/04/17 10:12:19 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini;QuillBot,Research help;Coding help,Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/17 10:59:37 AM GMT+6,Male,23-26,Undergraduate,Engineering,Yes,Daily,ChatGPT,Assignment writing;Coding help,Neutral,Agree,Disagree,No,Yes,Yes,Negative
+2026/04/17 11:09:43 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing,Agree,Neutral,Agree,No,Yes,No,Positive
+2026/04/17 12:26:15 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini;QuillBot;Others,Assignment writing;Research help;Coding help,Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/17 12:28:30 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Coding help,Strongly Agree,Neutral,Disagree,No,Yes,Maybe,Neutral
+2026/04/17 12:59:34 PM GMT+6,Female,23-26,Undergraduate,Business Administration,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini,Assignment writing;Research help;Grammar checking,Strongly Agree,Strongly Agree,Agree,No,Yes,Maybe,Positive
+2026/04/17 2:35:06 PM GMT+6,Male,18-22,,Business Administration,No,Daily,ChatGPT,Assignment writing,,,,,,,
+2026/04/17 9:19:22 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing;Research help;Grammar checking,Agree,Agree,Agree,Yes,Yes,Yes,Very Positive
+2026/04/17 10:18:21 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Daily,QuillBot;Others,,,Strongly Agree,Disagree,Yes,Yes,Yes,Very Positive
+2026/04/17 10:18:42 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini;QuillBot;Others,Assignment writing;Research help;Coding help,Agree,Strongly Agree,Agree,Yes,No,Maybe,Positive
+2026/04/17 10:22:34 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;QuillBot,Research help;Grammar checking,Neutral,Strongly Agree,Agree,No,Yes,No,Neutral
+2026/04/17 10:29:35 PM GMT+6,Female,23-26,Undergraduate,Business Administration,Yes,Occasionally,ChatGPT;Google Bard / Gemini,Assignment writing;Research help,Neutral,Neutral,Agree,No,No,Yes,Neutral
+2026/04/17 10:30:33 PM GMT+6,Male,23-26,Graduate,Science & Technology,Yes,Weekly,ChatGPT;Grammarly;QuillBot,Assignment writing;Research help;Coding help,Neutral,Agree,Agree,Yes,Yes,Yes,Positive
+2026/04/17 10:32:36 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Weekly,ChatGPT,All of the above,Agree,Neutral,Neutral,Yes,Yes,Yes,Positive
+2026/04/17 10:33:21 PM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Weekly,ChatGPT;Google Bard / Gemini;Others,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Agree,Agree,Agree,No,Yes,Maybe,Neutral
+2026/04/17 10:45:43 PM GMT+6,Male,18-22,Graduate,Science & Technology,Yes,Occasionally,ChatGPT;Google Bard / Gemini,Grammar checking,Neutral,Neutral,Neutral,No,No,No,Neutral
+2026/04/17 10:47:48 PM GMT+6,Male,23-26,Graduate,Arts & Social Sciences,Yes,Weekly,ChatGPT,Research help,Agree,Agree,Agree,No,No,Yes,Positive
+2026/04/17 10:50:19 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,All of the above,Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Positive
+2026/04/17 10:51:25 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini,Research help;Grammar checking,Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/17 10:52:00 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing,Strongly Agree,Agree,Agree,Yes,Yes,Yes,Very Positive
+2026/04/17 10:52:03 PM GMT+6,Female,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini,All of the above,Agree,Strongly Agree,Neutral,No,Yes,Yes,Positive
+2026/04/17 10:52:29 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/17 10:53:03 PM GMT+6,Male,Below 18,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Very Positive
+2026/04/17 10:53:38 PM GMT+6,Male,18-22,Undergraduate,Arts & Social Sciences,Yes,Weekly,Grammarly,Research help,Agree,Agree,Neutral,No,Yes,Yes,Very Positive
+2026/04/17 11:14:36 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,All of the above,Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/17 11:15:33 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini;QuillBot,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/17 11:20:09 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing;Coding help,Strongly Agree,Strongly Agree,Neutral,No,Yes,Yes,Very Positive
+2026/04/17 11:20:39 PM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,All of the above,Agree,Agree,Agree,No,Yes,Maybe,Positive
+2026/04/17 11:23:01 PM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini;QuillBot,All of the above,Agree,Agree,Agree,No,Yes,No,Neutral
+2026/04/17 11:24:20 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/17 11:34:58 PM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini;QuillBot;Others,Assignment writing;Research help;Coding help,Neutral,Neutral,Neutral,No,Yes,Yes,Positive
+2026/04/17 11:36:56 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Others,Assignment writing;Research help;Grammar checking,Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/17 11:39:39 PM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini;QuillBot;Others,All of the above,Neutral,Agree,Neutral,No,Yes,Yes,Neutral
+2026/04/18 12:27:10 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Very Positive
+2026/04/18 1:08:26 AM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Very Positive
+2026/04/18 2:36:53 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini,All of the above,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/18 8:38:37 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Occasionally,ChatGPT;Grammarly;Google Bard / Gemini,All of the above,Agree,Agree,Neutral,No,Yes,Yes,Positive
+2026/04/18 12:16:11 PM GMT+6,Female,23-26,Postgraduate,Arts & Social Sciences,Yes,Daily,ChatGPT,Research help,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Very Positive
+2026/04/18 2:02:13 PM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini;QuillBot,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Very Positive
+2026/04/18 2:03:30 PM GMT+6,Female,18-22,Undergraduate,Business Administration,Yes,Daily,ChatGPT;QuillBot,Assignment writing;Research help,Agree,Agree,Agree,No,Yes,Maybe,Positive
+2026/04/18 2:04:33 PM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Daily,Google Bard / Gemini;QuillBot,Grammar checking;Coding help,Strongly Agree,Agree,Neutral,No,Yes,Yes,Positive
+2026/04/18 2:48:35 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Others,Grammar checking;Coding help,Disagree,Neutral,Agree,No,Yes,Yes,Neutral
+2026/04/18 4:41:43 PM GMT+6,Female,18-22,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Research help,Neutral,Agree,Agree,No,Yes,Yes,Neutral
+2026/04/18 4:46:17 PM GMT+6,Prefer not to say,Below 18,Postgraduate,Science & Technology,Yes,Weekly,ChatGPT,Research help;Grammar checking,Agree,Agree,Agree,No,No,Maybe,Positive
+2026/04/18 4:46:17 PM GMT+6,Female,Below 18,Postgraduate,Science & Technology,Yes,Weekly,ChatGPT;Grammarly,Research help;Grammar checking,Agree,Agree,Agree,No,Yes,Maybe,Positive
+2026/04/18 4:47:46 PM GMT+6,Male,Below 18,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini,Assignment writing;Research help;Grammar checking,Agree,Agree,Agree,Yes,Yes,Yes,Positive
+2026/04/18 4:48:01 PM GMT+6,Male,Below 18,Postgraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini;QuillBot,Assignment writing;Research help;Grammar checking,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/18 4:48:06 PM GMT+6,Male,Below 18,Undergraduate,Science & Technology,Yes,Occasionally,ChatGPT,Assignment writing;Research help,Neutral,Agree,Disagree,Yes,No,Maybe,Neutral
+2026/04/18 4:54:29 PM GMT+6,Male,18-22,Graduate,Business Administration,Yes,Weekly,Google Bard / Gemini,Research help,Agree,Agree,Agree,No,Yes,Yes,Neutral
+2026/04/18 5:44:55 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Coding help,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/18 6:12:05 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/18 6:59:49 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,No,Never,ChatGPT,Research help,Neutral,Neutral,Neutral,No,Yes,Yes,Neutral
+2026/04/18 7:12:40 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,Assignment writing;Grammar checking;Coding help,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Positive
+2026/04/18 7:25:15 PM GMT+6,Female,Below 18,Undergraduate,Arts & Social Sciences,Yes,Daily,ChatGPT;QuillBot,All of the above,Neutral,Neutral,Disagree,No,Yes,No,Neutral
+2026/04/19 12:40:26 AM GMT+6,Female,Under 18,Undergraduate,Business Administration,Yes,Occasionally,Google Bard / Gemini,Assignment writing;Grammar checking,Agree,Neutral,Agree,No,No,Yes,Positive
+2026/04/19 12:41:07 AM GMT+6,Male,Over 26,Graduate,Arts & Social Sciences,Yes,Weekly,ChatGPT;Grammarly;Google Bard / Gemini;QuillBot,Assignment writing;Research help;Grammar checking;Coding help,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Very Positive
+2026/04/19 12:42:35 AM GMT+6,Female,18-22,Graduate,Business Administration,Yes,Daily,ChatGPT,All of the above,Agree,Strongly Agree,Agree,Yes,Yes,Maybe,Very Positive
+2026/04/19 12:43:53 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini;Others,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/19 12:46:39 AM GMT+6,Female,Over 26,Graduate,Arts & Social Sciences,No,Weekly,Google Bard / Gemini,Assignment writing;Grammar checking,Strongly Agree,Agree,Agree,No,Yes,No,Positive
+2026/04/19 1:14:40 AM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT,All of the above,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Neutral
+2026/04/19 6:35:14 AM GMT+6,Female,23-26,Undergraduate,Science & Technology,No,Never,Others,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Strongly Disagree,Strongly Disagree,Strongly Agree,No,No,Maybe,Very Negative
+2026/04/19 6:35:54 AM GMT+6,Prefer not to say,18-22,Undergraduate,Arts & Social Sciences,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini;QuillBot,Assignment writing;Research help;Grammar checking;Coding help;All of the above,Strongly Agree,Neutral,Strongly Agree,No,No,Yes,Very Positive
+2026/04/19 3:47:03 PM GMT+6,Female,23-26,Undergraduate,Arts & Social Sciences,Yes,Weekly,ChatGPT;Google Bard / Gemini,Assignment writing;Research help,Strongly Agree,Strongly Agree,Strongly Agree,Yes,Yes,Yes,Very Positive
+2026/04/19 6:53:46 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Weekly,ChatGPT,Assignment writing,Neutral,Neutral,Neutral,No,Yes,Yes,Neutral
+2026/04/19 6:53:59 PM GMT+6,Female,Over 26,Postgraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;QuillBot,Research help,Strongly Agree,Strongly Agree,Agree,No,Yes,Maybe,Neutral
+2026/04/19 6:54:09 PM GMT+6,Male,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Google Bard / Gemini,Assignment writing;Research help;Coding help,Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/19 6:56:39 PM GMT+6,Male,Over 26,Undergraduate,Business Administration,Yes,Occasionally,ChatGPT,Research help,Agree,Agree,Agree,No,Yes,Yes,Neutral
+2026/04/19 6:56:52 PM GMT+6,Female,Over 26,Graduate,Science & Technology,Yes,Daily,Google Bard / Gemini,All of the above,Strongly Agree,Agree,Agree,No,Yes,Yes,Positive
+2026/04/19 7:54:26 PM GMT+6,Female,Over 26,Undergraduate,Business Administration,No,Occasionally,Grammarly,Grammar checking,Agree,Agree,Neutral,Yes,Yes,No,Positive
+2026/04/19 7:58:11 PM GMT+6,Male,18-22,Undergraduate,Science & Technology,Yes,Weekly,ChatGPT,Research help,Neutral,Agree,Neutral,Yes,No,Maybe,Positive
+2026/04/19 8:08:27 PM GMT+6,Male,Under 18,Undergraduate,Business Administration,Yes,Daily,ChatGPT,All of the above,Agree,Neutral,Neutral,Yes,Yes,Maybe,Neutral
+2026/04/19 8:42:34 PM GMT+6,Female,18-22,Undergraduate,Others,Yes,Occasionally,QuillBot,Research help,Neutral,Neutral,Neutral,,,Maybe,Neutral
+2026/04/19 10:06:06 PM GMT+6,Male,18-22,Undergraduate,Others,Yes,Daily,ChatGPT,Research help,Neutral,Agree,Agree,No,Yes,Maybe,Positive
+2026/04/19 11:26:13 PM GMT+6,Male,18-22,Undergraduate,Business Administration,Yes,Daily,ChatGPT;Google Bard / Gemini,Assignment writing,Strongly Agree,Strongly Agree,Strongly Agree,No,Yes,Yes,Very Positive
+2026/04/19 11:27:55 PM GMT+6,Female,18-22,Undergraduate,Others,Yes,Occasionally,Others,Assignment writing,Agree,Agree,Neutral,No,Yes,Yes,Positive
+2026/04/20 3:30:30 AM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Daily,ChatGPT;Grammarly;Google Bard / Gemini,Research help;Grammar checking;Coding help,Neutral,Agree,Neutral,No,Yes,Maybe,Neutral
+2026/04/20 11:49:49 AM GMT+6,Female,23-26,Undergraduate,Science & Technology,Yes,Weekly,ChatGPT;Google Bard / Gemini;Others,Assignment writing;Research help;Coding help,Neutral,Agree,Agree,No,No,Maybe,Neutral
+2026/04/20 11:49:49 AM GMT+7,Female,23-27,Undergraduate,,Yes,Weekly,ChatGPT;Google Bard / Gemini;Others,,Neutral,Agree,Agree,No,No,Maybe,Neutral
